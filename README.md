@@ -52,7 +52,7 @@ E aí, blz? 😎 Esse repositório é onde eu coloquei na prática os padrões d
 
 # E agora? 🤔 🧠
 
-Tenho muito o que explorar ainda, estudar pra caramba, aprender, tipo: 😫🤯 
+Tenho muito o que explorar ainda, estudar pra caramba, aprender: 😫🤯 
 
 - Colocar testes automáticos nos padrões pra garantir que não quebra nada. 🧪
 - Jogar mais padrões nesse projeto pra ficar ainda mais massa. 💥
