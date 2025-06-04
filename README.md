@@ -10,13 +10,12 @@ E aí, blz? 😎 Esse repositório é onde eu coloquei na prática os padrões d
 
 # Tecnologias 🛠️
 
-- [![Java](https://img.shields.io/badge/Java-17+-blue?logo=java&style=for-the-badge)](https://www.oracle.com/java/)
-- [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-brightgreen?logo=springboot&style=for-the-badge)](https://spring.io/projects/spring-boot)
-- [![H2 Database](https://img.shields.io/badge/H2-Database-blueviolet?style=for-the-badge)](https://www.h2database.com/html/main.html)
-- [![Maven](https://img.shields.io/badge/Maven-3.8.5-red?logo=apachemaven&style=for-the-badge)](https://maven.apache.org/)
-- [![Feign Client](https://img.shields.io/badge/OpenFeign-Client-orange?style=for-the-badge)](https://spring.io/projects/spring-cloud-openfeign)
-- [![JUnit 5](https://img.shields.io/badge/JUnit-5-purple?logo=junit5&style=for-the-badge)](https://junit.org/junit5/)
-- [![Spring Boot Test](https://img.shields.io/badge/Spring_Boot_Test-lightgrey?style=for-the-badge)](https://spring.io/guides/gs/testing-web/)
+# 🚀 Status do Projeto
+
+<p align="left">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github" alt="License" /><br>
+ <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=openjdk" /><br>
+</p>
 
 # Padrões de Projeto explorados 📚
 
@@ -61,3 +60,11 @@ Tenho muito o que explorar ainda, estudar pra caramba, aprender: 😫🤯
 # IDE 
 
 - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+# implementação de referência
+
+https://github.com/digitalinnovationone/lab-padroes-projeto-java
+
+### Desenvolvido na linguagem Java por:
+
+- [Ariana Eger](https://github.com/arisgerr)
