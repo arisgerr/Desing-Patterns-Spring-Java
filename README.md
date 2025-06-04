@@ -1,4 +1,4 @@
-# Explorando Padrões de Projeto na Prática com Java 
+## <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> Explorando Padrões de Projeto na Prática com Java 
 
 E aí, blz? 😎 Esse repositório é onde eu coloquei na prática os padrões de projeto que aprendi no lab DIO. A ideia aqui é mostrar como esses padrões clássicos funcionam no Java puro, sem firulas, só na prática mesmo. 🎯
 
